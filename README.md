@@ -26,6 +26,7 @@ Follow these steps to set up and run the app on your Android device:
    (https://github.com/ChienNguyenIT/app_wallpaper)
 
 step1: Open the project in Android Studio.
+
 step2: Build and run the app on your Android device or emulator.
 
 Technologies Used
