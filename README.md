@@ -13,8 +13,6 @@ Welcome to the Wallpaper App for Android! This application allows users to disco
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Getting Started
 
